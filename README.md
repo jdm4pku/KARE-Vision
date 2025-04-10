@@ -1,7 +1,7 @@
 # KARE-Vision
 
-- PAR: ProductAnalysisReport.pdf
-- IR: Interview_record.pdf
-- URL: UserRequirements.pdf
-- OEL: OpeEnvList.pdf
-- SRS: SRS.pdf
+- PAR: Product Analysis Report Artifacts
+- IR: Interview Record Artifacts
+- URL: User Requirements List Artifacts
+- OEL: Operation Environment List Aritifacts
+- SRS: Software Requirements Specification Artifacts
